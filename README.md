@@ -6,4 +6,4 @@
 - ⚡ Fav quote: Data is the new oil! (c) Clive Humby
 
 ### Languages and Tools:
-Python, SQL, Tableau, Figma, Jupyter Notebook, Google Colab
+Python, SQL, Tableau, Figma, Jupyter Notebook
